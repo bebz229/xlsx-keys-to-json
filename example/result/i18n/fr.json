@@ -1,0 +1,20 @@
+{
+  "hello": {
+    "world": "Bonjour",
+    "bye": "Au revoir",
+    "second": {
+      "sheet": "Deuxième feuille"
+    }
+  },
+  "thank": {
+    "you": {
+      "guys": "Merci"
+    }
+  },
+  "sign": "2be3",
+  "yeah": {
+    "it": {
+      "works": "Ça marche"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "fr": {
+    "hello": {
+      "world": "Bonjour",
+      "bye": "Au revoir",
+      "second": {
+        "sheet": "Deuxième feuille"
+      }
+    },
+    "thank": {
+      "you": {
+        "guys": "Merci"
+      }
+    },
+    "sign": "2be3",
+    "yeah": {
+      "it": {
+        "works": "Ça marche"
+      }
+    }
+  },
+  "en": {
+    "hello": {
+      "world": "Hello",
+      "bye": "Bye",
+      "second": {
+        "sheet": "Second sheet"
+      }
+    },
+    "thank": {
+      "you": {
+        "guys": "Thanks"
+      }
+    },
+    "sign": "2be3",
+    "yeah": {
+      "it": {
+        "works": "It works"
+      }
+    }
+  },
+  "es": {
+    "hello": {
+      "second": {
+        "sheet": ":p"
+      }
+    },
+    "yeah": {
+      "it": {
+        "works": ";)"
+      }
+    }
+  }
+}

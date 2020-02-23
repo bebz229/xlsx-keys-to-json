@@ -1,0 +1,43 @@
+{
+  "name": "xlsx-keys-to-json",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "xkj": "xkj",
+    "ex": "xkj -s example/example.xlsx -d example/yes/yes -n i18n_{}.json -t 4",
+    "test": "jest --config jest.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bebz229/xlsx-keys-to-json.git"
+  },
+  "author": "bebz229",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bebz229/xlsx-keys-to-json/issues"
+  },
+  "homepage": "https://github.com/bebz229/xlsx-keys-to-json#readme",
+  "dependencies": {
+    "node-xlsx": "^0.15.0",
+    "yargs": "^15.1.0"
+  },
+  "bin": {
+    "xkj": "lib/cli.js"
+  },
+  "keywords": [
+    "excel",
+    "json",
+    "xlsx",
+    "xkj"
+  ],
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.0",
+    "@semantic-release/git": "^9.0.0",
+    "jest": "^25.1.0",
+    "semantic-release": "^17.0.7"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  }
+}
