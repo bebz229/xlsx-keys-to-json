@@ -3,3 +3,5 @@ example
 tests
 jest.config.json
 coverage
+.releaserc
+.github
